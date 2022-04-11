@@ -1,7 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQG-jfMzZM9qdg/profile-displaybackgroundimage-shrink_350_1400/0/1640173158222?e=1655337600&v=beta&t=a9_3kYbWHy8fq5Ti47ItnZcFykrb4mK6i0JnUgYauds)]
-<h1 align="center">Hi 👋, I'm Jahid Iqbal</h1>
-<h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C5603AQHnzuty1lu5sQ/profile-displayphoto-shrink_800_800/0/1640093673163?e=1655337600&v=beta&t=rxNDE8mIwO90n4R4NhgKZqM2nfkECa_MqlvHCtfDkV4">
+<h1 align="center">About me✍️</h1>
+<p>Hey There! I am Jahid Iqbal,a full-stack web developer who develops and builds websites. Aside from that, I am constantly experimenting with new technology.Regardless of the situation, I always accomplish my tasks on time.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahidiqbal" /> </p>
 
