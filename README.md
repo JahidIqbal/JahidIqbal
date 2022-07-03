@@ -1,4 +1,3 @@
-[![MasterHead](https://www.linkedin.com/in/jahid-iqbal-webdev/overlay/background-image/)]
 <h1 align="center">About me✍️</h1>
 <p>Hey There! I am Jahid Iqbal,a full-stack web developer who develops and builds websites. Aside from that, I am constantly experimenting with new technology.Regardless of the situation, I always accomplish my tasks on time.</p>
 
