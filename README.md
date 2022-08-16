@@ -1,5 +1,5 @@
 <h1 align="center">About me✍️</h1>
-<p>Hey There! I am Jahid Iqbal,a full-stack web developer who develops and builds websites. Aside from that, I am constantly experimenting with new technology.Regardless of the situation, I always accomplish my tasks on time.</p>
+<p>Hey There! I am Jahid Iqbal,a Frontend Web developer who develops and builds websites. Aside from that, I am constantly experimenting with new technology.Regardless of the situation, I always accomplish my tasks on time.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahidiqbal" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jahid.iqbal211@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TtKDxgxJYI8UCzdEOygU6fC17W6cL6qN/view?usp=sharing](https://drive.google.com/file/d/1TtKDxgxJYI8UCzdEOygU6fC17W6cL6qN/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1aWvAYst2n4nslZR8xG7RTCsnyUg6DwbM/view?usp=sharing
 
 - ⚡ Fun fact **I love keyboard sound while doing coding⌨️**
 
