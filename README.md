@@ -1,19 +1,19 @@
 <h1 align="center">About me✍️</h1>
-<p>Hey There! I am Jahid Iqbal,a Frontend Web developer who develops and builds websites. Aside from that, I am constantly experimenting with new technology.Regardless of the situation, I always accomplish my tasks on time.</p>
+<p>I am a competitive programmer and skilled web developer who always try to push the boundaries and seek new challenges.I thrive on experimenting with new things and exploring the latest technologies.Regardless of the situation, I always accomplish my tasks on time.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahidiqbal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidiqbal" alt="jahidiqbal" /></a> </p>
 
-- 🔭 I’m currently working on **New Project**
+- 🔭 I’m currently working on **Full Stack Websites**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Computer Science Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio-for-information.netlify.app/](https://my-personal-portfolio-for-information.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p](https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p)
 
-- 💬 Ask me about **REACTJS,HTML5,CSS,JAVASCRIPT**
+- 💬 Ask me about **Javascript , C , C++ , Python , Data Structures and Algorithms**
 
 - 📫 How to reach me **jahid.iqbal211@gmail.com**
 
